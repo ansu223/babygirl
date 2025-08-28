@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babygirl-kohl.vercel.app/sitemap.xml
